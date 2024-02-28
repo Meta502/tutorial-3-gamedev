@@ -1,4 +1,4 @@
-# Fitur Lanjutan: Double Jump dan Dash
+# Fitur Lanjutan: Double Jump
 Pada tutorial ini, saya memilih untuk mengimplementasikan Double Jump dan Dash sebagai fitur tambahan yang ingin saya implementasikan.
 
 ## Double Jump
